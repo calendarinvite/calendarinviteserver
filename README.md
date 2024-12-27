@@ -1,6 +1,5 @@
 # calendarinviteserver
-The Calendar Invite Server
-The Calendar Invite Server is backed by to pieces of Technology. The Front End and the Backend.
+The Calendar Invite Server is backed by two pieces of Technology. The Front End and the Backend.
 
 The Front End is show cased by a Free Application called Calendarsnack.com. It is a VUE APP. It connects to the calendar invite server which is a set of APIs and Workflows built on AWS Serverless.
 
