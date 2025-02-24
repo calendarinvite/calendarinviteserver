@@ -6,6 +6,8 @@ The Front End is showcased by a Free Application called Calendarsnack.com. It is
 **CRUD Data Injection by the Calendar Client**
 The Calendar Event Data is injected into the AWS Serverless stack using a custom Lambda (Lambda 1 Machine). That machine ETLs the data by taking it from a calendar invite sent to an AWS Email Box from a customer client and assigns a UID attached to the Email Name of Client which becomes the "Organizer". Anytime the organizer updates the Calendar Client the data is updated in the Calendar Invite Server and to anyone that has received the calendar invite from the Calendar Invite Server. 
 
+**The Following Chapters are broke out and itemized in the Wiki with Chapter numbers**
+
 **Calendar Invite Server - Onboarding Instructions Technical Overview**
 Overview	
 The Onboarding Instructions guide provides a structured approach for setting up and managing the Calendar Invite Server (CIS). This document details the steps for repository setup, AWS profile configuration, CI/CD pipeline integration, and code deployment.
